@@ -12,6 +12,7 @@
 		AE152DEF1F6ACAB000EF5061 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE152DED1F6ACAB000EF5061 /* Main.storyboard */; };
 		AE152DF11F6ACAB000EF5061 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE152DF01F6ACAB000EF5061 /* Assets.xcassets */; };
 		AE152DF41F6ACAB000EF5061 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE152DF21F6ACAB000EF5061 /* LaunchScreen.storyboard */; };
+		AE152DFC1F6ACD9A00EF5061 /* sdfViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE152DFB1F6ACD9A00EF5061 /* sdfViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AE152DF01F6ACAB000EF5061 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE152DF31F6ACAB000EF5061 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE152DF51F6ACAB000EF5061 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE152DFB1F6ACD9A00EF5061 /* sdfViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sdfViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				AE152DE91F6ACAB000EF5061 /* AppDelegate.swift */,
 				AE152DEB1F6ACAB000EF5061 /* ViewController.swift */,
+				AE152DFB1F6ACD9A00EF5061 /* sdfViewController.swift */,
 				AE152DED1F6ACAB000EF5061 /* Main.storyboard */,
 				AE152DF01F6ACAB000EF5061 /* Assets.xcassets */,
 				AE152DF21F6ACAB000EF5061 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE152DEC1F6ACAB000EF5061 /* ViewController.swift in Sources */,
+				AE152DFC1F6ACD9A00EF5061 /* sdfViewController.swift in Sources */,
 				AE152DEA1F6ACAB000EF5061 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -301,6 +305,7 @@
 				AE152DFA1F6ACAB000EF5061 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
