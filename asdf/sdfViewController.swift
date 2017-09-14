@@ -12,7 +12,20 @@ class sdfViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        print("asdkjflds")
+        print("asdkjflds")
+        print("asdkjflds")
+        print("asdkjflds")
+        print("asdkjflds")
+        print("asdkjflds")
+        
+        print("asdkjflds")
+        print("asdkjflds")
+        print("asdkjflds")
+        print("asdkjflds")
+        print("asdkjflds")
+        print("asdkjflds")
         // Do any additional setup after loading the view.
     }
 
@@ -21,7 +34,8 @@ class sdfViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-
+    
+    
     /*
     // MARK: - Navigation
 
