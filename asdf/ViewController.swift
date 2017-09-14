@@ -23,16 +23,69 @@ class ViewController: UIViewController {
     func name1(kjhdf:String){
         print("asdkjflds")
         
-        print("asdkjflds")
-        print("asdkjflds")
-        print("asdkjflds")
-        print("asdkjflds")
+        
         print("asdkjflds")
         print("asdkjflds")
     }
     func name(asdf:Bool){
         //
     }
-    print("asdkjflds")
+    
+    func name1(kjhdf:String){
+        print("asdkjflds")
+        
+        
+        print("asdkjflds")
+        print("asdkjflds")
+    }
+    func name(asdf:Bool){
+        //
+    }
+    
+    func name1(kjhdf:String){
+        print("asdkjflds")
+        
+        
+        print("asdkjflds")
+        print("asdkjflds")
+    }
+    func name(asdf:Bool){
+        //
+    }
+    
+    func name1(kjhdf:String){
+        print("asdkjflds")
+        
+        
+        print("asdkjflds")
+        print("asdkjflds")
+    }
+    func name(asdf:Bool){
+        //
+    }
+    
+    func name1(kjhdf:String){
+        print("asdkjflds")
+        
+        
+        print("asdkjflds")
+        print("asdkjflds")
+    }
+    func name(asdf:Bool){
+        //
+    }
+    
+    func name1(kjhdf:String){
+        print("asdkjflds")
+        
+        
+        print("asdkjflds")
+        print("asdkjflds")
+    }
+    func name(asdf:Bool){
+        //
+    }
+    
+    
 }
 
