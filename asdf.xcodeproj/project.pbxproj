@@ -15,6 +15,8 @@
 		AE152DFC1F6ACD9A00EF5061 /* sdfViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE152DFB1F6ACD9A00EF5061 /* sdfViewController.swift */; };
 		AE152DFE1F6ACEF300EF5061 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE152DFD1F6ACEF300EF5061 /* TableViewCell.swift */; };
 		AE152E001F6AD12B00EF5061 /* sdfdfTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE152DFF1F6AD12B00EF5061 /* sdfdfTableViewCell.swift */; };
+		AE1936411F729CBC00DBAFCF /* sdfViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE1936401F729CBC00DBAFCF /* sdfViewController.swift */; };
+		AE1936431F729CCB00DBAFCF /* sdfdfdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE1936421F729CCB00DBAFCF /* sdfdfdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		AE152DFB1F6ACD9A00EF5061 /* sdfViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sdfViewController.swift; sourceTree = "<group>"; };
 		AE152DFD1F6ACEF300EF5061 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		AE152DFF1F6AD12B00EF5061 /* sdfdfTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sdfdfTableViewCell.swift; sourceTree = "<group>"; };
+		AE1936401F729CBC00DBAFCF /* sdfViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = sdfViewController.swift; path = ../sdfViewController.swift; sourceTree = "<group>"; };
+		AE1936421F729CCB00DBAFCF /* sdfdfdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sdfdfdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +64,9 @@
 		AE152DE81F6ACAB000EF5061 /* asdf */ = {
 			isa = PBXGroup;
 			children = (
+				AE1936421F729CCB00DBAFCF /* sdfdfdViewController.swift */,
 				AE152DE91F6ACAB000EF5061 /* AppDelegate.swift */,
+				AE1936401F729CBC00DBAFCF /* sdfViewController.swift */,
 				AE152DEB1F6ACAB000EF5061 /* ViewController.swift */,
 				AE152DFF1F6AD12B00EF5061 /* sdfdfTableViewCell.swift */,
 				AE152DFB1F6ACD9A00EF5061 /* sdfViewController.swift */,
@@ -149,6 +155,8 @@
 				AE152DFE1F6ACEF300EF5061 /* TableViewCell.swift in Sources */,
 				AE152E001F6AD12B00EF5061 /* sdfdfTableViewCell.swift in Sources */,
 				AE152DFC1F6ACD9A00EF5061 /* sdfViewController.swift in Sources */,
+				AE1936411F729CBC00DBAFCF /* sdfViewController.swift in Sources */,
+				AE1936431F729CCB00DBAFCF /* sdfdfdViewController.swift in Sources */,
 				AE152DEA1F6ACAB000EF5061 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
